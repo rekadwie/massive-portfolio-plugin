@@ -15,7 +15,7 @@ Download : Coming Soon
 <li> Upload massive.zip to your server </li>
 <li> install </li>
 <li> active plugin </li>
-</ul
+</ul>
 
 <h1>How To Use</h1>
 
